@@ -1,0 +1,11 @@
+{
+  "category": "Unity",
+  "description": "AutoScreen",
+  "displayName": "AutoScreen",
+  "keywords": [
+    ""
+  ],
+  "name": "com.kakunpc.auto_screen",
+  "unity": "2020.3",
+  "version": "1.0.1"
+}
